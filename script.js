@@ -1,5 +1,4 @@
 console.log("Chaitanya")
-function add(a,b){
-    return a+b;
+function add(a,num2){
+    return a+num2;
 }
-const l=45
